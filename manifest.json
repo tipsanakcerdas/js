@@ -1,0 +1,38 @@
+{
+  "name": "TipsAnakCerdas",
+  "short_name": "TipsAnakCerdas",
+  "start_url": "https://www.tipsanakcerdas.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Tips anak cerdas sehat & pintar belajar bermain serta mengaji sejak balita & usia dini dalam tumbuh kembang yg baik degan nutrisi suplemen anak cerdas",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-wJ3i4ruuiao/WqKi8Gbe3pI/AAAAAAAAAdw/GhFcR6M5m9cBIyPaw0d_1Fj5E9f7Jb66gCLcBGAs/s48/thumb-icon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-wJ3i4ruuiao/WqKi8Gbe3pI/AAAAAAAAAdw/GhFcR6M5m9cBIyPaw0d_1Fj5E9f7Jb66gCLcBGAs/s72/thumb-icon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-wJ3i4ruuiao/WqKi8Gbe3pI/AAAAAAAAAdw/GhFcR6M5m9cBIyPaw0d_1Fj5E9f7Jb66gCLcBGAs/s96/thumb-icon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-wJ3i4ruuiao/WqKi8Gbe3pI/AAAAAAAAAdw/GhFcR6M5m9cBIyPaw0d_1Fj5E9f7Jb66gCLcBGAs/s144/thumb-icon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-wJ3i4ruuiao/WqKi8Gbe3pI/AAAAAAAAAdw/GhFcR6M5m9cBIyPaw0d_1Fj5E9f7Jb66gCLcBGAs/s168/thumb-icon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-wJ3i4ruuiao/WqKi8Gbe3pI/AAAAAAAAAdw/GhFcR6M5m9cBIyPaw0d_1Fj5E9f7Jb66gCLcBGAs/s192/thumb-icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-wJ3i4ruuiao/WqKi8Gbe3pI/AAAAAAAAAdw/GhFcR6M5m9cBIyPaw0d_1Fj5E9f7Jb66gCLcBGAs/s512/thumb-icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
